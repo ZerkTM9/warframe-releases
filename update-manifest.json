@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "- Test updater",
-  "pub_date": "2026-06-05T06:47:11Z",
+  "version": "1.0.3",
+  "notes": "- Version affichee correctement",
+  "pub_date": "2026-06-05T07:02:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYkQxYVBpdTU2UklGQzVINUhndnVpWE4yMnBKYmt1bmtFRUtVeEF1OWJJQVhJZTNBOHk0MHlwSTlJMzJ3MnljSUNHbWhtVi9WdU5XSXNZWW1KOFNTQWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjQyMDAxCWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzEuMC4yX3g2NF9lbi1VUy5tc2kKNkY2VW5DM1RBOHU1Z1RyTFpYMU13RHNZa1RuSitiNjVjMjlNdVdRd2lyby8xaUVvcDBOUUQybFg5aEIxRXdLdE9sMUNyMjR0T3M3dmVzdkxlSzZRRGc9PQo=",
-      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v1.0.2/Warframe%20Task%20Tracker_1.0.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYlBkQ3JDSmIwV3V1dkxObGlvbFFBdkw1MHRGWVpCYy9GSWtZYmp3bUVtSWxYU2xibm14dFlFV0wrdXM3MUNuM3BNN1dWc0FhRFIydnZBK3Qvb2MyTGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjQyODkyCWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzEuMC4zX3g2NF9lbi1VUy5tc2kKTFQ2dUl6ZlBnenBDRUxmUjlHNkFYNkRReXAzdUJycEdjNVEvSU43amxRbmlKaWE3eDlCVXBoQTJPTXlNQVlSdyt4REJId0tGZUtDVHhoWFlXVHpjQ2c9PQo=",
+      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v1.0.3/Warframe%20Task%20Tracker_1.0.3_x64_en-US.msi"
     }
   }
 }
