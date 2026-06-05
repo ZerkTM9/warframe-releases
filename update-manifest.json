@@ -1,11 +1,11 @@
 {
-  "version": "1.1.5",
-  "notes": "- Fix updater: Channel construit avec transformCallback",
-  "pub_date": "2026-06-05T08:25:05Z",
+  "version": "1.1.6",
+  "notes": "- Fix updater: C",
+  "pub_date": "2026-06-05T08:27:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYkxqMW1CYnRZbXFsTjhuNzBOSDg2NlZxRmt0ZE5VVEppMXhiUDRQM1lFNWZpdG9tejFCSTJ3ZWtXaEp3ekpDRWowVURFNW1BdHZVaVVQUkNCOWRMQ1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjQ3ODcyCWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzEuMS41X3g2NF9lbi1VUy5tc2kKL1QzNkhGWVdZbDA4MkpGV2tPbXpyc0VqbHVaZHZjRW9jYUxoM0phamh4ZGY3VDZ6K2t1YzNpZ0U0dHFrSFdZbncwSXNEYnk3NVNUM2xMbEQyUyt0QkE9PQo=",
-      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v1.1.5/Warframe%20Task%20Tracker_1.1.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYkw0TXkxSERDQ1NNakl0aHJhN1lrK05LcTRESEFyRGF3enQzWksvYXVrUm50WUlWZFI5YXdKTHVqeFZQVk5PV0hIMlZPcnQ5TENBcHhIQUdLdERaUHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjQ4MDI1CWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzEuMS42X3g2NF9lbi1VUy5tc2kKV05uNEhKNUI0S1pMenBGTGZvb0JyT1JDM3I0bk10eU1IbnZQYUR6Wk1WWVBZZEI1dlpwWVBoa2lwNitDaDVXbU5KL2FiK1ZWbEc4bmtDV0VocmR0RGc9PQo=",
+      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v1.1.6/Warframe%20Task%20Tracker_1.1.6_x64_en-US.msi"
     }
   }
 }
