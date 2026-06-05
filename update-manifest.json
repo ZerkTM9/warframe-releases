@@ -1,11 +1,11 @@
 {
-  "version": "0.9.0",
-  "notes": "- Diagnostic erreur webhook Discord",
-  "pub_date": "2026-06-05T06:21:46Z",
+  "version": "1.0.1",
+  "notes": "- Fix mise a jour automatique",
+  "pub_date": "2026-06-05T06:30:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYkd0bzh1YW9Yb20vbGpwNHYxeEltaldQVktUN29kMHhtaW4rZWtyZVZrUDhtUFlDcHUyWHZ6amZoVVp2SXJUZUN5K0VXVTRSVWdUeTR1VDNzNnI5UFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjM5ODIzCWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzAuOC4wX3g2NF9lbi1VUy5tc2kKbWYvOTFIRHR3UnI5bkpkYnN1dEdWMjc0b1ZncGU4S0ZjdlBMWmZISDlocDQwc2ovNEprWkFxNzB5UVFZUHBkaUZzME5ZOVh6emI3TFZSNXJCelc3QUE9PQo=",
-      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v0.9.0/Warframe%20Task%20Tracker_0.8.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYkpZVU5sWXdGaTdBNHJwVWxXNng3RG8rWTVFRkJmbnNNai9MZnpva0JnRGZRRjJETnZDZ1c2ZFNFekhRK25SREkwNVBCQ0Y2clcvTkRhRi9TMVdXbWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjQwOTc3CWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzEuMC4xX3g2NF9lbi1VUy5tc2kKQytybUdIQVY0cy9NMnZlUlhJbUwyT0ZJd1NTd2FYeUh6bElReE8wNHZNVGd4U21rMVZ4Sm4xT0szMjN3WDR2QTNsdWdPNUUyY3c0WTlHZVBHYmJtQmc9PQo=",
+      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v1.0.1/Warframe%20Task%20Tracker_1.0.1_x64_en-US.msi"
     }
   }
 }
