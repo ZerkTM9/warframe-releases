@@ -1,11 +1,11 @@
 {
-  "version": "0.8.0",
-  "notes": "- Fix config persistante entre sessions",
-  "pub_date": "2026-06-05T06:10:49Z",
+  "version": "0.9.0",
+  "notes": "- Diagnostic erreur webhook Discord",
+  "pub_date": "2026-06-05T06:21:46Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYkd0bzh1YW9Yb20vbGpwNHYxeEltaldQVktUN29kMHhtaW4rZWtyZVZrUDhtUFlDcHUyWHZ6amZoVVp2SXJUZUN5K0VXVTRSVWdUeTR1VDNzNnI5UFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjM5ODIzCWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzAuOC4wX3g2NF9lbi1VUy5tc2kKbWYvOTFIRHR3UnI5bkpkYnN1dEdWMjc0b1ZncGU4S0ZjdlBMWmZISDlocDQwc2ovNEprWkFxNzB5UVFZUHBkaUZzME5ZOVh6emI3TFZSNXJCelc3QUE9PQo=",
-      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v0.8.0/Warframe%20Task%20Tracker_0.8.0_x64_en-US.msi"
+      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v0.9.0/Warframe%20Task%20Tracker_0.8.0_x64_en-US.msi"
     }
   }
 }
