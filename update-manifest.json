@@ -1,11 +1,11 @@
 {
-  "version": "1.3.0",
-  "notes": "- Fix mise a jour : correction format channel Tauri v2",
-  "pub_date": "2026-06-05T09:13:31Z",
+  "version": "1.3.1",
+  "notes": "- Fix minnel Tauri v2",
+  "pub_date": "2026-06-05T09:15:58Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYkR5dWpIYTB3U3BWYVJ4b1lEenozdVQ2UHNqTUVmaFZoaXo3eEpJdmwzaTJYTkdZQVlTbnZDUDZuVEZxWkdocmJMWHQvYS9oOHY3d3lzR0Z1clA0N1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjUwNzc4CWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzEuMy4wX3g2NF9lbi1VUy5tc2kKaUVYdGJaUnFHV21RTit2ODhTTk85QkRNMVl5UEcwalVhUEthZ2U0Mm8yazhiVmowcEJOOVVaem55eGNmYytSVXY0cURPQTVaZGZxVUFqbFRrOWNDQ1E9PQo=",
-      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v1.3.0/Warframe%20Task%20Tracker_1.3.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYkFjSEh5aVdNMW5BS3FtUE54SFM0SnBCWUpiM0lhRFpGN2xRT0NRcXBDaE1BUWVOZkw3d1VtM1RxSk4rNzFpbkwvMFpTTXY4VVErOWFrS0ZKb3lCU0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjUwOTI2CWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzEuMy4xX3g2NF9lbi1VUy5tc2kKaDArZjVvM0VIMlI4QWZicWZKSy92NFUwaTlwRVNsa0hNMFo3b3gxY01oNVBFNUt6dURlbWpJamVtdmtvOHhOODFzS21OSzN5ZmFJZ3dnOFYvUEtnRFE9PQo=",
+      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v1.3.1/Warframe%20Task%20Tracker_1.3.1_x64_en-US.msi"
     }
   }
 }
