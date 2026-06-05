@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
-  "notes": "- Test mise a jour",
-  "pub_date": "2026-06-05T04:33:30Z",
+  "version": "0.6.0",
+  "notes": "- Debug erreur updater",
+  "pub_date": "2026-06-05T04:42:12Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZS9GYU5KYVB2YjZoSkdoN2o3MmJBanpTL2xWYS9VMnlnSFNENFlxVjgzWGczamZMQVhrY3hMNnpqajRoQkV2UXc0L1BlcDJxalpyME9RZUJBS1h0bFBlZHNrY2huRGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjIzNTIyCWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzAuMy4wX3g2NF9lbi1VUy5tc2kKR2hZc3N0eTR5UWVlS2FGMzVUZEdzY0I5bXRFZklrWFhoQTFqakF3VjJQL0lhSHkwQ1dwUWtRMlpIcnNIYmY4N3pvd0g3Y2xYQXlIdW53aVZDRC8rQ0E9PQo=",
-      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v0.5.0/Warframe%20Task%20Tracker_0.3.0_x64_en-US.msi"
+      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v0.6.0/Warframe%20Task%20Tracker_0.3.0_x64_en-US.msi"
     }
   }
 }
