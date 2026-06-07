@@ -1,11 +1,11 @@
 {
-  "version": "2.1.1",
-  "notes": "- Profils serveur sauvegardes et affichage du serveur actif dans l'app",
-  "pub_date": "2026-06-07T02:21:44Z",
+  "version": "2.1.2",
+  "notes": "- Affichage des utilisateurs connectes au serveur partage en temps reel",
+  "pub_date": "2026-06-07T02:44:17Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYkJuT0JRc3dNR1UyYkFDOXR2eXNTeVlQRkFtcnBNVnFtR25WUlB6VDBIa0FENzdxM0pLZDNiTjRRTXpYdnBORkQ4RFVld1NHbzZjTEUxOGF1TDc3RHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzk4OTAyCWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzIuMS4xX3g2NF9lbi1VUy5tc2kKVlBOM3JoNk5kK3Q4TUczUjlVelo4clFaQndJbHNEVmlHb1dKdjJEV2orS0pIWUNpLzNPcDNGalpaQjNjekwyVXJBY1VLQ2hQRjJmVm1pZ1hHbC85RGc9PQo=",
-      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v2.1.1/Warframe.Task.Tracker_2.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYkRKYWNuQ3lKTEpXQXVBVlBPYmJ1aUw1NmNMMnk1VlBrSDU0aXF1UGVRQTNxaVpoU1dQU25FU2szUno2MDdhWTNGcDdwSFgvSk9yTjNPMjdjWU9zeVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODAwMjU0CWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzIuMS4yX3g2NF9lbi1VUy5tc2kKWTJNTUNYNFpoSjF6OFVMU01ld2RuQklNaGtiQVJ0RC96encvQ3IyaFdiQVlaalpDR3BwaVpGNThqbXBSZlhGQ2NHSDhRZFI0NkpBcnFGTTRYM2RiQkE9PQo=",
+      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v2.1.2/Warframe.Task.Tracker_2.1.2_x64_en-US.msi"
     }
   }
 }
