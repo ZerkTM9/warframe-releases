@@ -1,11 +1,11 @@
 {
-  "version": "2.0.9",
-  "notes": "",
-  "pub_date": "2026-06-06T19:24:55Z",
+  "version": "2.1.0",
+  "notes": "- Backend hebergeable en standalone (Docker/Unraid) - Connexion a un serveur partage entre plusieurs PC",
+  "pub_date": "2026-06-07T02:06:53Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYk5STWRPempHSDZIb2oxeTh2Nm93bUdUQTV3ckV4b2VhVzBWdXcrSlNMc29BalFlY1VYRWphbnRJL3dSQ0ZQVmxOSnVsUXhqdXhUanlJU0pjS2JCdkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzczODkyCWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzIuMC45X3g2NF9lbi1VUy5tc2kKRDczRXRvTVp3T3haclBSOGdZK3laSFozaGd4a2FqdnZsd0V3bFlHOXFCV3NmSVVXYWpFcXhScElDUGY3UE42WW5RMk90NzdlU1VscmoyKy9Lbkg1QXc9PQo=",
-      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v2.0.9/Warframe.Task.Tracker_2.0.9_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYkYrbEg5NDkvZ3o4b2ZUUHBNWVNLSXdNMi9vWFowcDVvRGZ4bnYrdFgxZVJBb1NINEM1MStLTjRxRmlXY0FHY2hUMnNUcEMvRHBSVjZRMmliK3NuYUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzk4MDEwCWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzIuMS4wX3g2NF9lbi1VUy5tc2kKQit4K3FmZlcybU9nNER4SHVUK2lFZGEwbVY1amtiSlp2bzE5VWxVTWpXTU45VUhqT2x4bXl2NG9ydUFJNCtjVkFRTkdNS2lNSmZPWWs0YkpJR0cwRHc9PQo=",
+      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v2.1.0/Warframe.Task.Tracker_2.1.0_x64_en-US.msi"
     }
   }
 }
