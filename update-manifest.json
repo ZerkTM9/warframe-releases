@@ -1,11 +1,11 @@
 {
-  "version": "2.1.4",
-  "notes": "- Fix: erreur 500 lors de l'export des taches",
-  "pub_date": "2026-06-07T07:32:00Z",
+  "version": "2.1.5",
+  "notes": "- Refresh poll 4secondes",
+  "pub_date": "2026-06-07T08:38:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYkRvT2R1MytadVlOemllN0JqWDFQdFgxYUdJMXFQWXBaQUdCbS9qVWsxWnAzS0tUcW9wamRaYldmTXdlV1FKcjVOWUcvcUtKd01OOEJDbGV3L21raXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODE3NTE3CWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzIuMS40X3g2NF9lbi1VUy5tc2kKbjhEZ2tGMmpRdXFieXQ0UU1OeTlJYW9QaXBTTk1pSnkyUCtvM2x6U0VTSjRWcW9UbTN3ZUJROTJEVFV0ZXMxQ0M3eWExNGVmM0ZHc05BekVMVWdEQ2c9PQo=",
-      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v2.1.4/Warframe.Task.Tracker_2.1.4_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMElnK2VPNGRQYkc5Q25MM1VqRGQ5aUhvTDZrOFJyVVR1Rlp6S3cyVzVJdzNCRUFNMFZld094eFFCUHZwOG92emRhOWFsR0VyODQ4eE9uaWUzZ0w2bEZCTnVOVFVuWFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODIxNTE1CWZpbGU6V2FyZnJhbWUgVGFzayBUcmFja2VyXzIuMS41X3g2NF9lbi1VUy5tc2kKb29RV2xMVFA1MU5Lby9ZaWh3elpRUlZScEtSdzV0NHZZOTN2NXZSZG5CU0V0WEl6aFZFSjQ4cklLdU1VNXQ4V2dXcWIvMXdlUFFTTFRyZ0t2MkI3QkE9PQo=",
+      "url": "https://github.com/ZerkTM9/warframe-releases/releases/download/v2.1.5/Warframe.Task.Tracker_2.1.5_x64_en-US.msi"
     }
   }
 }
